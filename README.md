@@ -2,236 +2,127 @@
 
 # 👋 Hi, I'm Mohamed Salem
 
-### Full Stack Software Engineer • SaaS Builder • AI-Powered Developer
+### Full Stack Software Engineer · SaaS Builder · AI-Powered Developer
 
-I design and build scalable software products that solve real business problems.
+[![GitHub followers](https://img.shields.io/github/followers/mohamedsalem-eng?label=Followers&style=social)](https://github.com/mohamedsalem-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-el-behairy-20870618b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:m.salem.dev@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=flat)](https://github.com/mohamedsalem-eng)
+[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-blue?style=flat)](https://github.com/mohamedsalem-eng)
 
-With experience across backend, frontend, mobile development, cloud infrastructure, and AI-assisted engineering, I enjoy transforming complex ideas into production-ready applications with clean architecture and maintainable code.
-
-<p align="center">
-  <a href="https://github.com/mohamedsalem-eng">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Based%20in-Egypt-blue?style=for-the-badge">
-</p>
+---
 
 </div>
 
----
-
-# 🚀 About Me
-
-I'm passionate about building high-quality software with a strong focus on:
-
-- Enterprise Software
-- SaaS Platforms
-- AI Integrations
-- ERP & CRM Systems
-- Marketplace Applications
-- Automation Systems
-- REST APIs
-- Scalable Backend Architecture
-
-I leverage modern AI tools to increase development speed while maintaining high standards for architecture, code quality, security, and maintainability.
-
-I believe software engineering is not only about writing code—it's about solving business problems efficiently.
+I design and build **scalable software products** that solve real business problems — from enterprise ERPs to AI-powered platforms, with clean architecture and production‑ready code.
 
 ---
 
-# 💼 What I Build
+## 🚀 About Me
 
-✔ Enterprise ERP Systems
+I'm a Full Stack Software Engineer with a passion for building enterprise-grade SaaS, AI‑powered applications, and scalable backend systems. I thrive at the intersection of business strategy and engineering excellence — turning complex ideas into production‑ready solutions with clean, maintainable code.
 
-✔ CRM Platforms
-
-✔ AI-Powered Applications
-
-✔ Booking Platforms
-
-✔ Marketplace Solutions
-
-✔ WhatsApp Automation Systems
-
-✔ Mobile Applications
-
-✔ Internal Business Tools
-
-✔ Admin Dashboards
-
-✔ REST APIs
-
-✔ Multi-tenant SaaS Platforms
+I leverage modern AI tools to accelerate development while upholding the highest standards of architecture, security, and performance.
 
 ---
 
-# 🛠 Tech Stack
+## 💼 What I Build
 
-## Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-
-## Frontend
-
-![Livewire](https://img.shields.io/badge/Livewire-purple?style=flat-square)
-![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css)
-
-## Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-
-## DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-
-## AI
-
-- OpenAI APIs
-- Claude
-- Gemini
-- AI Agents
-- MCP
-- RAG
-- Prompt Engineering
-- AI Automation
+- 🏢 **Enterprise ERPs** – Complete solutions with Inventory, HR, CRM, Sales, Purchasing, Accounting, Manufacturing
+- 🤖 **AI‑Powered Apps** – Document analysis, chat, business automation, knowledge retrieval, workflow automation
+- 📱 **Mobile Apps** – Cross‑platform with Flutter
+- 🏨 **Booking Platforms** – Property management, reservations, payments, calendars, admin dashboards
+- 📊 **Admin Dashboards** – Custom internal tools and analytics
+- ⚡ **REST APIs** – High‑performance, well‑documented APIs
+- 🔄 **Automation Systems** – WhatsApp automation, business process automation
+- 🏭 **Marketplace Solutions** – B2B platforms with advanced search and messaging
 
 ---
 
-# 🏗 Engineering Principles
+## 🛠 Tech Stack
 
-I enjoy building software that is:
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
 
-- Clean Architecture
-- SOLID Principles
-- Scalable
-- Secure
-- Maintainable
-- Modular
-- Performance Optimized
-- Well Documented
-- Fully Tested
-- Production Ready
+### Frontend
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 
----
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-# 📌 Featured Projects
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## 🏢 Enterprise ERP
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-Complete ERP solution including:
-
-- Inventory
-- HR
-- CRM
-- Sales
-- Purchasing
-- Accounting
-- Manufacturing
-
----
-
-## 🤖 AI Business Assistant
-
-AI-powered platform capable of:
-
-- Document Analysis
-- Chat
-- Business Automation
-- Knowledge Retrieval
-- Workflow Automation
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-5A4FCF?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat&logo=ai&logoColor=white)
 
 ---
 
-## 📱 WhatsApp Automation Platform
+## 🏗 Engineering Principles
 
-Business communication platform featuring:
-
-- Multi-user support
-- Automation
-- Message Management
-- Dashboard
-- Analytics
+- **Clean Architecture** · **SOLID Principles** · **Scalable** · **Secure** · **Maintainable**  
+- **Modular** · **Performance Optimized** · **Well Documented** · **Fully Tested** · **Production Ready**
 
 ---
 
-## 🏨 Property Booking Platform
+## 📌 Featured Projects
 
-Modern booking system featuring:
-
-- Property Management
-- Reservations
-- Payments
-- Calendar
-- Admin Dashboard
-
----
-
-## 🏭 Manufacturing Marketplace
-
-B2B platform connecting manufacturers and buyers with advanced search, messaging, and product management.
+| Project | Description |
+|---------|-------------|
+| 🏢 **Enterprise ERP** | Complete ERP with Inventory, HR, CRM, Sales, Purchasing, Accounting & Manufacturing |
+| 🤖 **AI Business Assistant** | Document analysis, chat, automation, knowledge retrieval & workflow automation |
+| 📱 **WhatsApp Automation** | Multi‑user platform with automation, message management, dashboard & analytics |
+| 🏨 **Property Booking Platform** | Property management, reservations, payments, calendar & admin dashboard |
+| 🏭 **Manufacturing Marketplace** | B2B platform connecting manufacturers and buyers with search & messaging |
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
-- Enterprise SaaS
-- AI-Powered Development
-- Laravel Ecosystem
-- Cloud Infrastructure
-- Distributed Systems
-- System Design
-- High Performance APIs
+- Enterprise SaaS · AI‑Powered Development · Laravel Ecosystem  
+- Cloud Infrastructure · Distributed Systems · High Performance APIs
 
----
+## 📚 Currently Learning
 
-# 📚 Currently Learning
-
-- Advanced System Design
-- AWS Architecture
-- Kubernetes
-- Event-Driven Architecture
-- Large Scale Distributed Systems
-- AI Engineering
+- Advanced System Design · AWS Architecture · Kubernetes  
+- Event‑Driven Architecture · Large Scale Distributed Systems · AI Engineering
 
 ---
 
-# 🤝 Open To
+## 🤝 Open To
 
-- Remote Full Stack Engineering Roles
-- Backend Engineering
-- AI Engineering
-- SaaS Development
-- Technical Consulting
-- Open Source Collaboration
+- Remote Full Stack Engineering · Backend Engineering · AI Engineering  
+- SaaS Development · Technical Consulting · Open Source Collaboration
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-📧 Email: m.salem.dev@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/mohamed-el-behairy-20870618b/
-
-🐙 GitHub: https://github.com/mohamedsalem-eng
+- 📧 **Email:** [m.salem.dev@gmail.com](mailto:m.salem.dev@gmail.com)  
+- 🔗 **LinkedIn:** [mohamed-el-behairy](https://www.linkedin.com/in/mohamed-el-behairy-20870618b/)  
+- 🐙 **GitHub:** [mohamedsalem-eng](https://github.com/mohamedsalem-eng)
 
 ---
 
 <div align="center">
 
-### "Great software is built by solving problems, not by writing more code."
+### *"Great software is built by solving problems, not by writing more code."*
 
 ⭐ Thanks for visiting my profile!
 
