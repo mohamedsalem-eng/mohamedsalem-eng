@@ -77,11 +77,8 @@ I believe software engineering is not only about writing code—it's about solvi
 ## Frontend
 
 ![Livewire](https://img.shields.io/badge/Livewire-purple?style=flat-square)
-
 ![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=flat-square)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css)
 
 ## Mobile
@@ -91,17 +88,13 @@ I believe software engineering is not only about writing code—it's about solvi
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 ## DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
 
 ## AI
@@ -240,13 +233,11 @@ B2B platform connecting manufacturers and buyers with advanced search, messaging
 
 # 📫 Let's Connect
 
-📧 Email: your@email.com
+📧 Email: m.salem.dev@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mohamed-el-behairy-20870618b/)
 
-🌐 Portfolio: https://yourwebsite.com
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/mohamedsalem-eng
 
 ---
 
