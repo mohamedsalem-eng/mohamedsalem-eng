@@ -9,7 +9,7 @@ I design and build scalable software products that solve real business problems.
 With experience across backend, frontend, mobile development, cloud infrastructure, and AI-assisted engineering, I enjoy transforming complex ideas into production-ready applications with clean architecture and maintainable code.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mohamedsalem-eng">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge">
