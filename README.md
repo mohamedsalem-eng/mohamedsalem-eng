@@ -235,7 +235,7 @@ B2B platform connecting manufacturers and buyers with advanced search, messaging
 
 📧 Email: m.salem.dev@gmail.com
 
-💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mohamed-el-behairy-20870618b/)
+💼 LinkedIn: https://www.linkedin.com/in/mohamed-el-behairy-20870618b/
 
 🐙 GitHub: https://github.com/mohamedsalem-eng
 
