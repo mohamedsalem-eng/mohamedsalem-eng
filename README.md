@@ -223,9 +223,9 @@ B2B platform connecting manufacturers and buyers with advanced search, messaging
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedsalem-eng&show_icons=true&count_private=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsalem-eng&layout=compact&hide_border=true"/>
 
 </p>
 
